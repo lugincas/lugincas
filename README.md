@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 📝 I regularly write articles on [https://substack.com/@novalive?](https://substack.com/@novalive?)
-
 - 💬 Ask me about **php, java, javascript, laravel, docker, html and css**
 
 - 📫 How to reach me **luisginesc@gmail.com**
